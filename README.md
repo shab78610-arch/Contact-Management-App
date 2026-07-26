@@ -46,21 +46,27 @@ This is a basic Contact Management Application developed using Python Flask, SQL
 
 ## 📸 Screenshots
 
-### Home Page - Contact List
-![Contact List](screenshots/home.png)
-*View all your contacts in a clean table format*
+### Home Page - Contact List - Blank Contact Page 
+<img width="1912" height="677" alt="image" src="https://github.com/user-attachments/assets/d417cc64-2b70-411e-92cc-2223bd6100f1"/>
+View all your contacts in a clean table format
 
 ### Add New Contact
-![Add Contact](screenshots/add.png)
-*Add a new contact with first name, last name, and address*
+<img width="1907" height="870" alt="image" src="https://github.com/user-attachments/assets/2ec87d26-7879-482f-9989-9ff0426c391e" />
+Add a new contact with first name, last name, and address
+
+### Home Page - Contact List 
+<img width="1907" height="767" alt="image" src="https://github.com/user-attachments/assets/7f22d0f1-1b9f-4fc5-8f2b-4228f66c335c" />
+After Adding data 
 
 ### Edit Contact
-![Edit Contact](screenshots/edit.png)
-*Update existing contact information*
+<img width="1900" height="810" alt="image" src="https://github.com/user-attachments/assets/76338eff-18f1-4444-a32f-4aefa5f5d33b" />
+Update existing contact information
 
 ### Delete Contact
-![Delete Contact](screenshots/delete.png)
-*Delete contacts with confirmation*
+<img width="1905" height="735" alt="image" src="https://github.com/user-attachments/assets/d0b67628-cc75-4512-b331-d01a9944740b" />
+Delete contacts with confirmation
+<img width="1906" height="560" alt="image" src="https://github.com/user-attachments/assets/23ce528a-b31b-4bb2-9935-f49d9ae77c22" />
+After Deletion  
 
 ## 📋 Prerequisites
 
